@@ -1,1 +1,2 @@
 Segunda practica con git probando sus comandos subiendo archivos a githubt
+Cambio hecho desde el repositorio original
